@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

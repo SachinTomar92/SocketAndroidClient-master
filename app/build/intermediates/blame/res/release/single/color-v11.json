@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

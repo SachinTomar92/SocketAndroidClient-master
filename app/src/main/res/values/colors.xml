@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_yellow">#f0ead7</color>
+    <color name="dark_blue">#48c7e0</color>
+    <color name="dark_orange">#64f5a623</color>
+    <color name="blue">#00abea</color>
+
+
+    <color name="textColor">#FFF</color>
+    <color name="textFieldColor">#000</color>
+    <color name="textShadow">#FFF</color>
+    <color name="listViewBg">#DADFEE</color>
+
+    <color name="error_color">#F28500</color>
+
+    <color name="barDarkColor">#CECECE</color>
+    <color name="barMeduimColor">#DFDEE0</color>
+    <color name="barLightColor">#F2F2F2</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="historyColor">#8B8B8B</color>
+
+    <color name="northOrange">#F28500</color>
+    <color name="unpaid">#E70124</color>
+    <color name="paid">#86D15E</color>
+</resources>

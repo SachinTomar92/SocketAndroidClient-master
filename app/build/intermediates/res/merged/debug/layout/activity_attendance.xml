@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2a2a2a"
+    android:onClick="attendancePhoto"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    tools:context="com.north.socket.client.Attendance">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="#2a2a2a">
+
+        <ImageView
+            android:id="@+id/attendancePhoto"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="73dp"
+            android:text="@string/shower"
+            android:textColor="#f1f1f1" />
+
+        <Switch
+
+            android:id="@+id/shower"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="20sp"
+            android:layout_marginTop="68dp"
+            android:scaleY="1.5"
+            android:textColor="#f1f1f1"
+            android:textOff=""
+            android:textOn="Done"
+            android:thumbTextPadding="25dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="132dp"
+            android:text="@string/powerbank"
+            android:textColor="#f1f1f1" />
+
+        <Switch
+            android:id="@+id/powerbank"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="128dp"
+            android:scaleY="1.5"
+            android:textColor="#f1f1f1"
+            android:textOff=""
+            android:textOn="Done"
+            android:thumbTextPadding="25dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="188dp"
+            android:text="@string/charger"
+            android:textColor="#f1f1f1" />
+
+        <Switch
+            android:id="@+id/charger"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="188dp"
+            android:scaleY="1.5"
+            android:textColor="#f1f1f1"
+            android:textOff=""
+            android:textOn="Done"
+            android:thumbTextPadding="25dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="248dp"
+            android:text="@string/uniform"
+            android:textColor="#f1f1f1" />
+
+        <Switch
+            android:id="@+id/uniform"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="248dp"
+            android:scaleY="1.5"
+            android:textColor="#f1f1f1"
+            android:textOff=""
+            android:textOn="Done"
+            android:thumbTextPadding="25dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="308dp"
+            android:text="@string/backpack"
+            android:textColor="#f1f1f1" />
+
+        <Switch
+            android:id="@+id/bag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="308dp"
+            android:scaleY="1.5"
+            android:textColor="#f1f1f1"
+            android:textOff=""
+            android:textOn="Done"
+            android:thumbTextPadding="25dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/bag"
+            android:layout_marginTop="70dp"
+            android:gravity="center"
+            android:text="@string/selfie"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/signin"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="150px"
+            android:background="#F28500"
+            android:onClick="SignIn"
+            android:text="@string/sign_in"
+            android:textColor="#ffffff"
+            android:textSize="24dp" />
+
+    </RelativeLayout>
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/overlay"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <RelativeLayout
+            android:id="@+id/loadingPanel"
+            style="@style/GenericProgressBackground">
+
+            <ProgressBar style="@style/GenericProgressIndicator" />
+        </RelativeLayout>
+
+    </FrameLayout>
+</RelativeLayout>

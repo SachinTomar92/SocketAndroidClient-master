@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "/Users/sachintomar 1/.android/build-cache/e9aeaea0944a01b6e41906297e185a856ea3a49f/output/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 39,
+                        "endOffset": 90
+                    }
+                }
+            }
+        ]
+    }
+]

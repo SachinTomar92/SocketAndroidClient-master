@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/topinfoActivity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:fontFamily="sans-serif-thin"
+            android:text=""
+            android:textColor="#FFD2D2D2"
+            android:textSize="18dp" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="fill_parent"
+            android:layout_height="60dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="37dp"
+            android:background="#222" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="41dp"
+            android:src="@drawable/licht" />
+
+        <TextView
+            android:id="@+id/vehicleNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="52dp"
+            android:fontFamily="sans-serif-thin"
+            android:text="KA 01 MH 4149"
+            android:textColor="#000000"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/brandTopInfo"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignTop="@+id/typeofsvc"
+            android:layout_marginLeft="5dp"
+            android:fontFamily="sans-serif-thin"
+            android:text="Honda Jazz"
+            android:textAlignment="center"
+            android:textColor="#FFD2D2D2" />
+
+        <TextView
+            android:id="@+id/typeofsvc"
+            android:layout_width="65dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="50dp"
+            android:fontFamily="sans-serif-thin"
+            android:text="@string/general_service"
+            android:textAlignment="center"
+            android:textColor="#FFD2D2D2" />
+
+        <TextView
+            android:id="@+id/custnameTopInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/imageView"
+            android:layout_alignLeft="@+id/brandTopInfo"
+            android:layout_alignRight="@+id/imageView"
+            android:layout_alignStart="@+id/brandTopInfo"
+            android:layout_below="@+id/vehicleNumber"
+            android:layout_marginTop="38dp"
+            android:width="300dp"
+            android:fontFamily="sans-serif-thin"
+            android:maxLines="1"
+            android:maxWidth="400dp"
+            android:text="Prashanth Kumar"
+            android:textColor="#d2d2d2"
+            android:textSize="24dp" />
+
+        <TextView
+            android:id="@+id/custinfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/custnameTopInfo"
+            android:layout_alignStart="@+id/custnameTopInfo"
+            android:layout_below="@+id/custnameTopInfo"
+            android:fontFamily="sans-serif-thin"
+            android:text="@string/customer"
+            android:textColor="#F28500" />
+
+        <TextView
+            android:id="@+id/custaddressTopInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/custinfo"
+            android:layout_alignStart="@+id/custinfo"
+            android:layout_below="@+id/custinfo"
+            android:clickable="true"
+            android:fontFamily="sans-serif-thin"
+            android:maxLines="2"
+            android:text="Ferns Meadows, Bilishivale, Dr SRK Nagar Post, Off Hennur Road @ Byrati Cross Off Hennur Road @ Byrati Cross"
+            android:textColor="#FFD2D2D2"
+            android:textSize="16dp" />
+
+        <TextView
+            android:id="@+id/svcnameTopInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/custaddressTopInfo"
+            android:layout_alignStart="@+id/custaddressTopInfo"
+            android:layout_below="@+id/custaddressTopInfo"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="27dp"
+            android:ellipsize="end"
+            android:fontFamily="sans-serif-thin"
+            android:maxLines="1"
+            android:text="Prashanth Kumar"
+            android:textColor="#FFD2D2D2"
+            android:textSize="24dp"
+            android:typeface="sans" />
+
+        <TextView
+            android:id="@+id/svcinfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/svcnameTopInfo"
+            android:layout_alignStart="@+id/svcnameTopInfo"
+            android:layout_below="@+id/svcnameTopInfo"
+            android:layout_toLeftOf="@+id/licnumber"
+            android:layout_toStartOf="@+id/licnumber"
+            android:fontFamily="sans-serif-thin"
+            android:text="@string/service_centre"
+            android:textColor="#F28500" />
+
+        <TextView
+            android:id="@+id/svcaddressTopInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/svcinfo"
+            android:layout_alignStart="@+id/svcinfo"
+            android:layout_below="@+id/svcinfo"
+            android:clickable="true"
+            android:fontFamily="sans-serif-thin"
+            android:maxLines="2"
+            android:text="Ferns Meadows, Bilishivale, Dr SRK Nagar Post, Off Hennur Road @ Byrati Cross Off Hennur Road @ Byrati Cross"
+            android:textColor="#FFD2D2D2"
+            android:textSize="16dp" />
+
+        <LinearLayout
+            android:id="@+id/buttonLayout"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="40dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:background="@color/northOrange"
+                android:gravity="center"
+                android:onClick="acceptTaskClicked"
+                android:text="@string/start_task"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/led"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/green"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"
+            android:layout_above="@+id/buttonLayout"/>
+
+    </RelativeLayout>
+
+</FrameLayout>

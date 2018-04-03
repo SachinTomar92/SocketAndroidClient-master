@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.north.socket.client.implantHome"
+    android:background="#2a2a2a">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"
+        android:background="#2a2a2a"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TableLayout
+            android:layout_margin="5dp"
+            android:stretchColumns="*"
+            android:shrinkColumns="*"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow
+                android:layout_width="0dp"
+                android:layout_marginTop="40dp"
+                android:minHeight="90px"
+                android:layout_height="wrap_content" >
+                <ImageView
+                    android:src="@drawable/implant_01_usericon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:onClick="viewAttendance"
+                    android:id="@+id/ambAttendanceicon" />
+                <ImageView
+                    android:src="@drawable/implant_02_staricon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:onClick="viewRating"
+                    android:id="@+id/ambRatingicon" />
+            </TableRow>
+            <TableRow
+                android:layout_width="0dp"
+                android:layout_margin="0dp"
+                android:layout_height="10dp" >
+
+                <TextView
+                    android:text="4/10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="#fff"
+                    android:textSize="30dp"
+                    android:onClick="viewAttendance"
+                    android:id="@+id/ambPresent" />
+
+                <TextView
+                    android:textSize="30dp"
+                    android:text="5 Low (4.5)"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="#fff"
+                    android:onClick="viewRating"
+                    android:id="@+id/ambRating" />
+            </TableRow>
+            <TableRow
+                android:layout_width="0dp"
+                android:minHeight="90px"
+                android:layout_height="wrap_content" >
+
+
+                <TextView
+                    android:text="Attendance"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="#fff"
+                    android:onClick="viewAttendance"
+                    android:id="@+id/textView3" />
+
+                <TextView
+                    android:text="Team Rating"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="#fff"
+                    android:onClick="viewRating"
+                    android:id="@+id/textView4" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="0dp"
+                android:layout_marginTop="30dp"
+                android:minHeight="110px"
+                android:layout_height="wrap_content" >
+            <ImageView
+                android:src="@drawable/implant_03_chequeicon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="viewCheque"
+                android:id="@+id/ambChequeicon" />
+            <ImageView
+                android:src="@drawable/implant_04_cashicon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="viewCash"
+                android:id="@+id/ambCashicon" />
+        </TableRow>
+            <TableRow
+                android:layout_width="0dp"
+                android:minHeight="60px"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:text="3 Nearby"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="#fff"
+                    android:textSize="20dp"
+                    android:onClick="viewCheque"
+                    android:id="@+id/ambCheque" />
+
+                <TextView
+                    android:textSize="20dp"
+                    android:text="2 Nearby"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="#fff"
+                    android:onClick="viewCash"
+                    android:id="@+id/ambCash" />
+            </TableRow>
+            <TableRow
+                android:layout_width="0dp"
+                android:minHeight="110px"
+                android:layout_height="wrap_content" >
+
+
+                <TextView
+                    android:text="Cheque"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="#fff"
+                    android:onClick="viewCheque"
+                    android:id="@+id/textView55" />
+
+                <TextView
+                    android:text="Cash Collection"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="#fff"
+                    android:onClick="viewCash"
+                    android:id="@+id/textView56" />
+            </TableRow>
+            <TableRow
+                android:layout_width="0dp"
+                android:layout_marginTop="0dp"
+                android:minHeight="100px"
+                android:layout_height="wrap_content" >
+                <ImageView
+                    android:src="@drawable/implant_05_mishapicon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:onClick="viewMishap"
+                    android:id="@+id/ambMishapicon" />
+                <ImageView
+                    android:src="@drawable/implant_06_ranticon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:onClick="viewComplaints"
+                    android:id="@+id/ambComplaintsicon" />
+            </TableRow>
+            <TableRow
+                android:layout_width="0dp"
+                android:minHeight="160px"
+                android:layout_height="wrap_content" >
+
+
+                <TextView
+                    android:text="Mishap"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="#fff"
+                    android:onClick="viewMishap"
+                    android:id="@+id/textView57" />
+
+                <TextView
+                    android:text="Complaints"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="#fff"
+                    android:onClick="viewComplaints"
+                    android:id="@+id/textView58" />
+            </TableRow>
+            <TableRow
+                android:layout_width="0dp"
+                android:layout_marginTop="0dp"
+                android:minHeight="90px"
+                android:layout_height="wrap_content" >
+                <ImageView
+                    android:src="@drawable/implant_07_cashdepositicon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:onClick="viewCashDeposit"
+                    android:id="@+id/ambDepositicon" />
+                <ImageView
+                    android:src="@drawable/implant_08_uniformicon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:onClick="viewPhotos"
+                    android:id="@+id/ambPhotoicon" />
+            </TableRow>
+            <TableRow
+                android:layout_width="0dp"
+                android:minHeight="120px"
+                android:layout_height="wrap_content" >
+                <TextView
+                    android:text="Cash Deposit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="#fff"
+                    android:onClick="viewCashDeposit"
+                    android:id="@+id/textView59" />
+
+                <TextView
+                    android:text="Team Photographs"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="#fff"
+                    android:onClick="viewPhotos"
+                    android:id="@+id/textView60" />
+            </TableRow>
+            <TableRow
+                android:layout_width="0dp"
+                android:layout_marginTop="40dp"
+                android:minHeight="90px"
+                android:layout_height="wrap_content" >
+                <ImageView
+                    android:src="@drawable/implant_09_missedicon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:onClick="viewMissed"
+                    android:id="@+id/ambMissedicon" />
+                <ImageView
+                    android:src="@drawable/implant_10_recoveryicon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:onClick="viewEquipment"
+                    android:id="@+id/ambRecoveryicon" />
+            </TableRow>
+            <TableRow
+                android:layout_width="0dp"
+                android:minHeight="160px"
+                android:layout_height="wrap_content" >
+
+
+                <TextView
+                    android:text="Missed Tasks"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="#fff"
+                    android:onClick="viewMissed"
+                    android:id="@+id/textView61" />
+
+                <TextView
+                    android:text="Equipment Recovery"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="#fff"
+                    android:onClick="viewEquipment"
+                    android:id="@+id/textView62" />
+            </TableRow>
+        </TableLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_gravity="center"
+            android:maxWidth="12dp"
+            android:maxHeight="12dp"
+            android:scaleType="fitCenter"
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:id="@+id/ledbutton"
+            android:background="@drawable/green"
+            />
+    </LinearLayout>
+</RelativeLayout>

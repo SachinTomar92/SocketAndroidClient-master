@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idone" type="id" />
+    <item name="idtwo" type="id" />
+    <item name="idthree" type="id" />
+    <item name="idfour" type="id" />
+    <item name="idfive" type="id" />
+    <item name="idsix" type="id" />
+    <item name="idseven" type="id" />
+    <item name="ideight" type="id" />
+    <item name="idnine" type="id" />
+    <item name="idten" type="id" />
+    <item name="ideleven" type="id" />
+    <item name="idtwelve" type="id" />
+    <item name="idthirteen" type="id" />
+    <item name="idfourteen" type="id" />
+    <item name="idfifteen" type="id" />
+    <item name="idsixteen" type="id" />
+    <item name="idseventeen" type="id" />
+    <item name="ideighteen" type="id" />
+    <item name="idnineteen" type="id" />
+    <item name="idtwenty" type="id" />
+    <item name="idtwentyone" type="id" />
+    <item name="idtwentytwo" type="id" />
+    <item name="idtwentythreeone" type="id" />
+    <item name="idtwentyfour" type="id" />
+</resources>

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_gravity="center"
+        android:background="#F5A623">
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="Transaction History"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="22dp"
+            tools:textSize="24sp" />
+
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="566dp">
+
+        <TextView
+            android:id="@+id/dateTxtViewHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="18dp"
+            android:layout_marginStart="18dp"
+            android:layout_marginTop="20dp"
+            android:text="Date"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/dateTxtHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=": 01/09/2017"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignTop="@+id/dateTxtViewHistory"
+            android:layout_alignLeft="@+id/dateTxtViewHistory"
+            android:layout_marginLeft="55dp"/>
+
+
+
+        <TextView
+            android:id="@+id/midTxtViewHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/dateTxtViewHistory"
+            android:layout_alignStart="@+id/dateTxtViewHistory"
+            android:layout_below="@+id/dateTxtViewHistory"
+            android:layout_marginTop="10dp"
+            android:text="MID"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/midTxtHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=": N51189"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_above="@+id/deviceTxtViewHistory"
+            android:layout_alignStart="@+id/dateTxtHistory"
+            android:layout_alignLeft="@+id/dateTxtHistory" />
+
+        <TextView
+            android:id="@+id/deviceTxtViewHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/midTxtViewHistory"
+            android:layout_alignStart="@+id/midTxtViewHistory"
+            android:layout_below="@+id/midTxtViewHistory"
+            android:layout_marginTop="10dp"
+            android:text="Device"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/deviceTxtHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/midTxtHistory"
+            android:layout_alignStart="@+id/midTxtHistory"
+            android:layout_alignTop="@+id/deviceTxtViewHistory"
+            android:text=": 01/09/2017"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/timeTxtViewHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignTop="@+id/dateTxtHistory"
+            android:layout_marginLeft="45dp"
+            android:layout_marginStart="45dp"
+            android:layout_toEndOf="@+id/dateTxtHistory"
+            android:layout_toRightOf="@+id/dateTxtHistory"
+            android:text="Time" />
+
+        <TextView
+            android:id="@+id/timeTxtHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignTop="@+id/timeTxtViewHistory"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_toEndOf="@+id/timeTxtViewHistory"
+            android:layout_toRightOf="@+id/timeTxtViewHistory"
+            android:text=": 21:00:12" />
+
+        <TextView
+            android:id="@+id/tidTxtViewHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/timeTxtViewHistory"
+            android:layout_alignStart="@+id/timeTxtViewHistory"
+            android:layout_alignTop="@+id/midTxtHistory"
+            android:text="TID" />
+
+        <TextView
+            android:id="@+id/tidTxtHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/timeTxtHistory"
+            android:layout_alignStart="@+id/timeTxtHistory"
+            android:layout_alignTop="@+id/tidTxtViewHistory"
+            android:text=": 98082088" />
+
+        <TextView
+            android:id="@+id/authTxtViewHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/tidTxtViewHistory"
+            android:layout_alignStart="@+id/tidTxtViewHistory"
+            android:layout_alignTop="@+id/deviceTxtHistory"
+            android:text="Auth" />
+
+        <TextView
+            android:id="@+id/authTxtHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/tidTxtHistory"
+            android:layout_alignStart="@+id/tidTxtHistory"
+            android:layout_alignTop="@+id/authTxtViewHistory"
+            android:text=": 242584" />
+
+        <TextView
+            android:id="@+id/cardTxtViewHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/deviceTxtViewHistory"
+            android:layout_alignStart="@+id/deviceTxtViewHistory"
+            android:layout_below="@+id/deviceTxtViewHistory"
+            android:layout_marginTop="36dp"
+            android:text="Card" />
+
+        <TextView
+            android:id="@+id/cardTxtHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/deviceTxtHistory"
+            android:layout_alignStart="@+id/deviceTxtHistory"
+            android:layout_alignTop="@+id/cardTxtViewHistory"
+            android:text=": 4375-51XX-XXXX-0008" />
+
+        <TextView
+            android:id="@+id/brandTextViewHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/cardTxtViewHistory"
+            android:layout_alignStart="@+id/cardTxtViewHistory"
+            android:layout_below="@+id/cardTxtViewHistory"
+            android:layout_marginTop="10dp"
+            android:text="Brand" />
+
+        <TextView
+            android:id="@+id/brandTxtHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/cardTxtHistory"
+            android:layout_alignStart="@+id/cardTxtHistory"
+            android:layout_alignTop="@+id/brandTextViewHistory"
+            android:text=": Visa" />
+
+        <TextView
+            android:id="@+id/amtTxtViewHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/brandTextViewHistory"
+            android:layout_alignStart="@+id/brandTextViewHistory"
+            android:layout_below="@+id/brandTextViewHistory"
+            android:layout_marginTop="10dp"
+            android:text="Amount" />
+
+        <TextView
+            android:id="@+id/amtTxtHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/brandTxtHistory"
+            android:layout_alignStart="@+id/brandTxtHistory"
+            android:layout_alignTop="@+id/amtTxtViewHistory"
+            android:text=": 21220" />
+
+        <TextView
+            android:id="@+id/nameTxtViewHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/amtTxtViewHistory"
+            android:layout_alignStart="@+id/amtTxtViewHistory"
+            android:layout_below="@+id/amtTxtViewHistory"
+            android:layout_marginTop="36dp"
+            android:text="Name" />
+
+        <TextView
+            android:id="@+id/nameTxtHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/amtTxtHistory"
+            android:layout_alignStart="@+id/amtTxtHistory"
+            android:layout_alignTop="@+id/nameTxtViewHistory"
+            android:text=": " />
+
+        <TextView
+            android:id="@+id/emailTxtViewHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/nameTxtViewHistory"
+            android:layout_alignStart="@+id/nameTxtViewHistory"
+            android:layout_below="@+id/nameTxtViewHistory"
+            android:layout_marginTop="10dp"
+            android:text="Email" />
+
+        <TextView
+            android:id="@+id/emailTxtHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/nameTxtHistory"
+            android:layout_alignStart="@+id/nameTxtHistory"
+            android:layout_alignTop="@+id/emailTxtViewHistory"
+            android:text=": " />
+
+        <TextView
+            android:id="@+id/mobileTxtViewHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/emailTxtViewHistory"
+            android:layout_alignStart="@+id/emailTxtViewHistory"
+            android:layout_below="@+id/emailTxtViewHistory"
+            android:layout_marginTop="10dp"
+            android:text="Mobile" />
+
+        <TextView
+            android:id="@+id/mobileTxtHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/emailTxtHistory"
+            android:layout_alignStart="@+id/emailTxtHistory"
+            android:layout_alignTop="@+id/mobileTxtViewHistory"
+            android:text=": 9123456789" />
+
+        <TextView
+            android:id="@+id/qidTxtViewHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/mobileTxtViewHistory"
+            android:layout_alignStart="@+id/mobileTxtViewHistory"
+            android:layout_below="@+id/mobileTxtViewHistory"
+            android:layout_marginTop="36dp"
+            android:text="Q ID" />
+
+        <TextView
+            android:id="@+id/qidTxtHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/mobileTxtHistory"
+            android:layout_alignStart="@+id/mobileTxtHistory"
+            android:layout_alignTop="@+id/qidTxtViewHistory"
+            android:text=": 149936" />
+
+        <TextView
+            android:id="@+id/mNameTxtViewHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/qidTxtViewHistory"
+            android:layout_alignStart="@+id/qidTxtViewHistory"
+            android:layout_below="@+id/qidTxtViewHistory"
+            android:layout_marginTop="10dp"
+            android:text="Name" />
+
+        <TextView
+            android:id="@+id/mNameTxtHistory"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/historyColor"
+            android:textStyle="bold"
+            android:layout_alignLeft="@+id/qidTxtHistory"
+            android:layout_alignStart="@+id/qidTxtHistory"
+            android:layout_alignTop="@+id/mNameTxtViewHistory"
+            android:text=": 21North" />
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>

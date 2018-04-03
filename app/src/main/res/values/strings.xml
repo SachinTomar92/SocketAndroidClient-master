@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ambassador</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="send">Send</string>
+    <string name="active_view_button">Active View</string>
+    <string name="title_activity_active_task">ActiveTask</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_await_payment">awaitPayment</string>
+    <string name="title_activity_signature_view">SignatureView</string>
+    <string name="title_activity_signature_main_layout">SignatureMainLayout</string>
+    <string name="title_activity_sign_view">SignView</string>
+    <string name="title_activity_capture_signature">CaptureSignatureActivity</string>
+    <string name="title_activity_take_photos">TakePhotos</string>
+    <string name="title_activity_attendance">Attendance</string>
+    <string name="title_activity_awaiting_task">AwaitingTask</string>
+    <string name="title_activity_mswipe_view">MswipeView</string>
+    <string name="title_activity_list_history">ListHistory</string>
+    <string name="title_activity_list_history_cash">ListHistory Cash</string>
+    <string name="title_activity_list_history_conv">ListHistory Conv</string>
+    <string name="title_transaction_history">Transaction History</string>
+    <string name="disabled_ambassador">Disabled</string>
+
+    <string name="title_activity_trans">trans</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="pickup_tag">Pickup</string>
+
+
+    <!--Login.class-->
+
+    <string name="enter_password">Enter Password</string>
+    <string name="mobile_no_request">Please enter your 10 digit mobile number.</string>
+    <string name="password_request">Please enter your 5 digit password.</string>
+    <string name="starting_service">Starting Service.</string>
+    <string name="stoping_service">"Network is Unavailable. Please try later."</string>
+    <string name="backpack">Backpack</string>
+    <string name="selfie">Tap Here To Capture Selfie</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">FORGOT PASSWORD</string>
+
+    <!--Awaiting Task-->
+
+    <string name="training">Training</string>
+    <string name="news">News</string>
+    <string name="refer_and_earn">Refer and Earn</string>
+    <string name="complaints">Complaints</string>
+    <string name="verify_address">Verify Address</string>
+    <string name="amb_status_busy">Marked Busy - Click to Free</string>
+    <string name="amb_status_banned">Banned!</string>
+    <string name="amb_status_free">Free - Awaiting Task</string>
+    <string name="view_history">View History</string>
+    <string name="incentives">Incentives</string>
+    <string name="conveyance">Conveyance</string>
+    <string name="customer_cash">Customer Cash</string>
+    <string name="attendance">Attendance</string>
+    <string name="change_address">Change Address</string>
+    <string name="payout_info">Payout Info</string>
+    <string name="awaiting_task">Awaiting Task</string>
+    <string name="monthly_income">Month\'s Earnings</string>
+    <string name="daily_income">Today\'s Earnings</string>
+    <string name="cash_in_hand">Cash In Hand</string>
+    <string name="dropoff">Dropoff</string>
+
+    <!--Verify Address-->
+
+    <string name="verify_pin">Verify Pin</string>
+    <string name="old_address">Old Address</string>
+    <string name="new_address">New Address</string>
+
+    <!--Active Task-->
+
+    <string name="start_task">Start Task</string>
+    <string name="stop_task">Stop Task</string>
+    <string name="customer">Customer</string>
+    <string name="service_centre">Service Centre</string>
+    <string name="history">History</string>
+    <string name="cash">Cash</string>
+    <string name="general_service">General Service</string>
+    <string name="pickup">Pickup: </string>
+    <string name="are_you_sure_cust_call">Are you sure you want to call the Customer?</string>
+    <string name="are_you_sure_SVC_M">Are you sure you want to call the CRE?</string>
+    <string name="are_you_sure_SVC_A">Are you sure you want to call the Service Advisor?</string>
+    <string name="customer_present_absent">Customer Present/Absent</string>
+    <string name="is_customer_present_or_absent">Is Customer Present or Absent?</string>
+    <string name="customer_present">Customer Present</string>
+    <string name="customer_absent">Customer Absent</string>
+    <string name="ticket_history">Ticket History</string>
+    <string name="go_to_customer">Go to Customer </string>
+    <string name="bill_paid">Bill Paid</string>
+    <string name="paid">Amount Paid</string>
+    <string name="unpaid">Amount Unpaid</string>
+    <string name="banned">Banned!</string>
+    <string name="chauffeur_service">Chauffeur Service</string>
+    <string name="go_to_svc">Go to Service Centre</string>
+    <string name="chauffeur_accept_task">Chauffeur - Accept Task</string>
+    <string name="chauffeur_go_to_cust">Chauffeur - Go to Customer</string>
+    <string name="chauffeur_start_service">Chauffeur - Start Service</string>
+    <string name="start_chauffeur_trip">Start Chauffeur Trip</string>
+    <string name="chauffeur_active_service">Chauffeur - Active Service</string>
+    <string name="stop_chauffeur_trip">Stop Chauffeur Trip</string>
+    <string name="rsa_accept_task">RSA - Accept Task</string>
+    <string name="rsa_go_to_cust">RSA - Go to Customer</string>
+    <string name="rsa_active_service">RSA - Active Service</string>
+    <string name="internal_move_active">Internal Movement - Active Service</string>
+    <string name="home_delivery_active">Home Delivery - Active Service</string>
+    <string name="start_task_go_to_svc">Start Task - Go To Centre</string>
+    <string name="stop_task_at_svc">Stop Task - At Centre</string>
+    <string name="stop_task_at_cust">Stop Task - At Cust Place</string>
+    <string name="stockyard_active">Stockyard - Active Service</string>
+    <string name="test_drive_active">Test Drive - Active Service</string>
+    <string name="start_test_drive">Start Test Drive</string>
+    <string name="stop_test_drive">Stop Test Drive</string>
+    <string name="drop">Drop:</string>
+    <string name="amount">Amt:</string>
+    <string name="eta">ETA:</string>
+
+    <!--Alert text-->
+    <string name="confirm_task">Are you sure you want to confirm the task?</string>
+    <string name="OK">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="location_off">Location Services is not working. Please restart the phone.</string>
+    <string name="go_back">Go Back?</string>
+    <string name="yes">Yes</string>
+    <string name="are_you_sure">"Are you sure?"</string>
+    <string name="click_to_rcv_sms">Click here and wait for SMS.</string>
+
+
+    <!--Mf.xml-->
+    <string name="back">Back</string>
+    <string name="submit_photos">Submit Photos</string>
+    <string name="declaration">I understand that 21North/Service centre is not responsible for any damage occured during transit of the vehicle and I hereby agree to the terms of service in www.21north.in</string>
+    <string name="declaration_rcv_vehicle">I hereby confirm receipt of the vehicle in Good condition.</string>
+
+    <!--ForgotPassword-->
+
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="next">Next</string>
+
+    <!--CaptureSignature.class-->
+
+    <string name="name_alert">Please enter more than 4 characters for Customer Name.</string>
+    <string name="please_sign_below">Please Sign below...</string>
+    <string name="please_complete_feedback">Please Complete Feedback</string>
+    <string name="please_check_essentials">Please Check Essentials</string>
+    <string name="click_selfie">Capture Selfie</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="digit_mobile_number">10 Digit Mobile Number</string>
+    <string name="save">SAVE</string>
+    <string name="clear">CLEAR</string>
+    <string name="submit_signature">Submit Signature?</string>
+    <string name="please_sign">Please Sign</string>
+    <string name="four_digit_number">Please enter more than 4 characters for Customer Name.</string>
+    <string name="ten_digit_number">Please enter a 10 digit Mobile Number</string>
+    <string name="at_svc_stop_task">At SVC - Stop Task</string>
+    <string name="not_at_svc_stop_task">Not at SVC - Stop Task</string>
+    <string name="overall_experience">Your overall experience with us</string>
+    <string name="friendliness">Friendliness and punctuality in Pickup / Drop</string>
+    <string name="vehicle_under_service">Experience while vehicle under service</string>
+    <string name="accuracy_of_estimate">Accuracy of estimate amount and estimated time of delivery</string>
+    <string name="satisfactory">Satisfactory explanation of billed charges</string>
+    <string name="quality_of_work">Quality of work</string>
+    <string name="cleanliness_of_vehicle">Cleanliness of vehicle</string>
+    <string name="svc_name_hint">SVC advisor/ CRE/ Security Name</string>
+
+    <!--AwaitingPayement-->
+    <string name="card">Card</string>
+    <string name="card_history">Card History</string>
+
+    <!--Attendance-->
+    <string name="shower">Shower</string>
+    <string name="powerbank">Powerbank</string>
+    <string name="charger">Charger</string>
+    <string name="uniform">Uniform</string>
+    <string name="sign_in">Sign In</string>
+    <string name="want_to_sign_in">Are you sure you want to Sign In?</string>
+
+
+    <!--Disabled Ambassador-->
+
+    <string name="please_contact_office">Please contact your Supervisor</string>
+
+
+    <string name="rupee">\u20B9</string>
+
+    <!--Feedback-->
+    <string name="feedback">ADD COMPLAINT</string>
+    <string name="submit">Submit</string>
+
+    <!--Refer and earn-->
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="email">Email</string>
+
+    <!--AcceptTask-->
+    <string name="chauffeur">Chauffeur</string>
+    <string name="home_delivery">Home Delivery</string>
+    <string name="test_drive">Test Drive</string>
+    <string name="internal_movement">Internal Movement</string>
+    <string name="stockyard">Stockyard Movement</string>
+
+    <!--Status-->
+    <string name="checking_mobile_data">Checking if mobiledata is enabled</string>
+    <string name="mobile_data_disabled">Mobiledata is disabled. Please enable it.</string>
+    <string name="location_spoofing_enabled">Location Spoofing is enabled. Please disable it.</string>
+    <string name="location_spoofing_app">Location Spoofing apps are installed. Please uninstall it.</string>
+    <string name="checking_wifi">Checking if wifi is enabled</string>
+    <string name="wifi_enabled">Wifi is enabled</string>
+    <string name="network_offline">Network is offline. Please enable Mobile Data.</string>
+    <string name="checking_gps">Checking if GPS is available</string>
+    <string name="network_available">Network is available. Connecting to Server.</string>
+    <string name="trying_again_in_three_sec">Network Unavailable - Trying again in 3 seconds. Please wait...</string>
+
+
+    <!--TakingComplaints-->
+    <string name="add_one_comp">Atleast Add One Complain</string>
+    <string name="add_complaints">Add Complaints</string>
+    <string name="add_other_complaints">Add Other Complaints</string>
+    <string name="skip">Skip</string>
+
+
+    <!--PhotoGallery-->
+    <string name="submit_photos_question">Submit Photos?</string>
+    <string name="road_side_assistance">Road Side Assistance</string>
+    <string name="awaiting_payment">Awaiting Payment</string>
+    <string-array name="four_wheeler">
+        <item>Front View</item>
+        <item>Left F Wheel</item>
+        <item>Left F Door</item>
+        <item>Left R Door</item>
+        <item>Left R Shoulder</item>
+        <item>Rear View</item>
+        <item>Trunk View</item>
+        <item>Spare Wheel</item>
+        <item>Right R Shoulder</item>
+        <item>Right R Door</item>
+        <item>Right F Door</item>
+        <item>Right F Wheel</item>
+        <item>Roof View</item>
+        <item>Glove Box</item>
+        <item>Center Console</item>
+        <item>Mileage / Fuel</item>
+        <item>Apron</item>
+        <item>Key</item>
+        <item>Insurance</item>
+        <item>R C</item>
+        <item>Inventory Sheet</item>
+    </string-array>
+
+    <string-array name="two_wheeler">
+        <item>Front View</item>
+        <item>Left View</item>
+        <item>Rear View</item>
+        <item>Right View</item>
+        <item>Top View</item>
+        <item>Speedometer</item>
+        <item>Insurance</item>
+        <item>R C</item>
+        <item>Inventory Sheet</item>
+    </string-array>
+
+</resources>

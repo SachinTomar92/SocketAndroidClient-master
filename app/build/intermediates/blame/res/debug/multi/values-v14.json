@@ -1,0 +1,287 @@
+[
+    {
+        "outputFile": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/values-v14/dimens.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 1,
+                        "startOffset": 13,
+                        "endColumn": 44,
+                        "endOffset": 56
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 250
+                },
+                "from": {
+                    "file": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 255,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 526
+                },
+                "from": {
+                    "file": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 531,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 838
+                },
+                "from": {
+                    "file": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 373,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 843,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1124
+                },
+                "from": {
+                    "file": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1129,
+                    "endColumn": 70,
+                    "endOffset": 1195
+                },
+                "from": {
+                    "file": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 70,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1200,
+                    "endColumn": 82,
+                    "endOffset": 1278
+                },
+                "from": {
+                    "file": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 82,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1283,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1688
+                },
+                "from": {
+                    "file": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1693,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2110
+                },
+                "from": {
+                    "file": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2115,
+                    "endColumn": 119,
+                    "endOffset": 2230
+                },
+                "from": {
+                    "file": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 119,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2235,
+                    "endColumn": 62,
+                    "endOffset": 2293
+                },
+                "from": {
+                    "file": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 62,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2298,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2447
+                },
+                "from": {
+                    "file": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2452,
+                    "endColumn": 62,
+                    "endOffset": 2510
+                },
+                "from": {
+                    "file": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endColumn": 62,
+                        "endOffset": 1712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2515,
+                    "endColumn": 131,
+                    "endOffset": 2642
+                },
+                "from": {
+                    "file": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1717,
+                        "endColumn": 131,
+                        "endOffset": 1844
+                    }
+                }
+            }
+        ]
+    }
+]

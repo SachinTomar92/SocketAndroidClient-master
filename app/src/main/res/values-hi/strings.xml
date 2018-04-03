@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">दूत</string>
+    <string name="hello_world">नमस्ते दुनिया!</string>
+    <string name="send">भेजे</string>
+    <string name="active_view_button">सक्रिय दृश्य</string>
+    <string name="title_activity_active_task">सक्रिय कार्य</string>
+    <string name="title_activity_login">लॉग इन करें</string>
+    <string name="title_activity_await_payment">भुगतान का इंतजार</string>
+    <string name="title_activity_signature_view">हस्ताक्षर देखें</string>
+    <string name="title_activity_signature_main_layout">हस्ताक्षर मुख्य लेआउट</string>
+    <string name="title_activity_sign_view">साइन इन</string>
+    <string name="title_activity_capture_signature">हस्ताक्षर गतिविधि कैप्चर करें</string>
+    <string name="title_activity_take_photos">तस्वीरें ले</string>
+    <string name="title_activity_attendance">उपस्थिति</string>
+    <string name="title_activity_awaiting_task">कार्य की प्रतीक्षारत</string>
+    <string name="title_activity_mswipe_view">MswipeView</string>
+    <string name="title_activity_list_history">सूची इतिहास</string>
+    <string name="title_activity_list_history_cash">सूची इतिहास नकद</string>
+    <string name="title_activity_list_history_conv">सूची इतिहास वाहक</string>
+    <string name="title_transaction_history">लेनदेन का इतिहास</string>
+    <string name="disabled_ambassador">प्रतिबंधित</string>
+
+    <string name="title_activity_trans">trans</string>
+    <string name="dummy_button">डमी बटन</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="pickup_tag">पिक अप</string>
+
+
+    <!--Login.class-->
+
+    <string name="enter_password">पास वर्ड दर्ज करें</string>
+    <string name="mobile_no_request">कृपया अपना 10 अंकों वाला मोबाइल नंबर दर्ज करें</string>
+    <string name="password_request">कृपया अपना 5 अंकों का पासवर्ड दर्ज करें।</string>
+    <string name="starting_service">Starting Service.</string>
+    <string name="stoping_service">"Network is available. Stopping Service."</string>
+    <string name="backpack">बैग</string>
+    <string name="selfie">सेल्फी कैप्चर करने के लिए यहां टैप करें</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="forgot_password">पासवर्ड भूल गए</string>
+
+    <!--Awaiting Task-->
+
+    <string name="training">प्रशिक्षण</string>
+    <string name="news">समाचार</string>
+    <string name="refer_and_earn">रेफर और अर्न</string>
+    <string name="complaints">शिकायतें</string>
+    <string name="verify_address">पता सत्यापित करें</string>
+    <string name="amb_status_busy">व्यस्त चिह्नित</string>
+    <string name="amb_status_banned">"प्रतिबंधित"</string>
+    <string name="amb_status_free">मुक्त - कार्य की प्रतीक्षारत</string>
+    <string name="view_history">इतिहास देखे</string>
+    <string name="incentives">प्रोत्साहन राशि</string>
+    <string name="conveyance">वाहन</string>
+    <string name="customer_cash">ग्राहक नकद</string>
+    <string name="attendance">उपस्थिति</string>
+    <string name="change_address">पता बदले</string>
+    <string name="payout_info">भुगतान जानकारी</string>
+    <string name="awaiting_task">कार्य की प्रतीक्षारत</string>
+    <string name="monthly_income">मासिक आय</string>
+    <string name="daily_income">दैनिक आय</string>
+    <string name="cash_in_hand">हाथ में पैसे</string>
+    <string name="dropoff">ड्रॉप ऑफ</string>
+
+    <!--Verify Address-->
+
+    <string name="verify_pin">पिन सत्यापित करें</string>
+    <string name="old_address">पुराना पता</string>
+    <string name="new_address">नया पता</string>
+
+    <!--Active Task-->
+
+    <string name="start_task">कार्य प्रारंभ करें</string>
+    <string name="stop_task">कार्य रोकें</string>
+    <string name="customer">ग्राहक</string>
+    <string name="service_centre">सर्विस सेंटर</string>
+    <string name="history">इतिहास</string>
+    <string name="cash">नकदी</string>
+    <string name="general_service">सामान्य सेवा</string>
+    <string name="pickup">पिक अप:</string>
+    <string name="are_you_sure_cust_call">क्या आप निश्चित रूप से ग्राहक को कॉल करना चाहते हैं?</string>
+    <string name="are_you_sure_SVC_M">क्या आप वाकई सेवा प्रबंधक को कॉल करना चाहते हैं?</string>
+    <string name="are_you_sure_SVC_A">क्या आप वाकई सेवा सलाहकार को कॉल करना चाहते हैं?</string>
+    <string name="customer_present_absent">ग्राहक उपस्थित / अनुपस्थित</string>
+    <string name="is_customer_present_or_absent">ग्राहक उपस्थित है या अनुपस्थित है</string>
+    <string name="customer_present">ग्राहक उपस्थित</string>
+    <string name="customer_absent">ग्राहक अनुपस्थित</string>
+    <string name="ticket_history">टिकट इतिहास</string>
+    <string name="go_to_customer">ग्राहक के पास जाओ </string>
+    <string name="bill_paid">बिल भुगतान किया</string>
+    <string name="paid">भुगतान किया है</string>
+    <string name="unpaid">राशि अवैतनिक</string>
+    <string name="banned">Banned!</string>
+    <string name="chauffeur_service">शोफर सर्विस</string>
+    <string name="go_to_svc">सर्विस सेंटर जाएं</string>
+    <string name="chauffeur_accept_task">शोफर - कार्य स्वीकार करें</string>
+    <string name="chauffeur_go_to_cust">शोफर - ग्राहक के यहाँ जाएं</string>
+    <string name="chauffeur_start_service">शोफर - सेवा शुरू करें</string>
+    <string name="start_chauffeur_trip">शोफर सर्विस शुरू करें</string>
+    <string name="chauffeur_active_service">शोफर - सक्रिय सर्विस</string>
+    <string name="stop_chauffeur_trip">शोफर - सर्विस रोकें</string>
+    <string name="rsa_accept_task">आरएसए - कार्य स्वीकार करें</string>
+    <string name="rsa_go_to_cust">आरएसए - ग्राहक के यहाँ जाएं</string>
+    <string name="rsa_active_service">आरएसए - सक्रिय सर्विस</string>
+    <string name="internal_move_active">आंतरिक गतिविधि - सक्रिय सर्विस</string>
+    <string name="home_delivery_active">घर पहुँचाना - सक्रिय सर्विस</string>
+    <string name="start_task_go_to_svc">कार्य प्रारंभ करें - सर्विस सेंटर जाएंं</string>
+    <string name="stop_task_at_svc">कार्य रोकें - सर्विस सेंटर में</string>
+    <string name="stop_task_at_cust">कार्य रोकें - ग्राहक के यहाँ पर</string>
+    <string name="stockyard_active">स्टॉकयार्ड - सक्रिय सर्विस</string>
+    <string name="test_drive_active">टेस्ट ड्राइव - सक्रिय सर्विस</string>
+    <string name="start_test_drive">टेस्ट ड्राइव शुरू करें</string>
+    <string name="stop_test_drive">टेस्ट ड्राइव रोकें</string>
+    <string name="drop">ड्रॉप:</string>
+    <string name="amount">राशि:</string>
+    <string name="eta">ईटीए:</string>
+
+    <!--Alert Text-->
+
+    <string name="confirm_task">क्या आप निश्चित रूप से कार्य की पुष्टि करना चाहते हैं?</string>
+    <string name="OK">ठीक</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="location_off">स्थान सेवाएं काम नहीं कर रही हैं कृपया फोन को पुनरारंभ करें</string>
+    <string name="go_back">वापस जाओ?</string>
+    <string name="yes">हाँ</string>
+    <string name="are_you_sure">"क्या आपको यकीन है?"</string>
+    <string name="click_to_rcv_sms">यहां क्लिक करें और एसएमएस की प्रतीक्षा करें</string>
+
+    <!--mf.xml-->
+
+    <string name="back">पीछे</string>
+    <string name="submit_photos">फोटो जमा करें</string>
+    <string name="declaration">मैं समझता हूं कि वाहन के परिवहन के दौरान किसी भी क्षति के लिए 21North जिम्मेदार नहीं है।</string>
+    <string name="declaration_rcv_vehicle">उत्कृष्ट स्थिति में वाहन प्राप्त किया।</string>
+
+    <!--ForgotPassword-->
+
+    <string name="next">अगला</string>
+    <string name="enter_mobile_number">मोबाइल नंबर दर्ज करें</string>
+
+    <!--CaptureSignature.class-->
+
+    <string name="name_alert">कृपया ग्राहक नाम के लिए 4 से अधिक वर्ण दर्ज करें।</string>
+    <string name="please_sign_below">कृपया नीचे हस्ताक्षर करें...</string>
+    <string name="customer_name">ग्राहक का नाम</string>
+    <string name="digit_mobile_number">10 अंक मोबाइल नंबर</string>
+    <string name="save">जमा</string>
+    <string name="clear">साफ़</string>
+    <string name="submit_signature">हस्ताक्षर सबमिट करें?</string>
+    <string name="please_sign">कृपया हस्ताक्षर करें</string>
+    <string name="four_digit_number">कृपया ग्राहक नाम के लिए 4 से अधिक वर्ण दर्ज करें।</string>
+    <string name="ten_digit_number">कृपया 10 अंकीय मोबाइल नंबर दर्ज करें</string>
+    <string name="at_svc_stop_task">एसवीसी में - कार्य रोकें</string>
+    <string name="not_at_svc_stop_task">एसवीसी में नहीं - कार्य रोकें</string>
+    <string name="overall_experience">हमारे साथ आपका समग्र अनुभव</string>
+    <string name="friendliness">पिकअप / ड्रॉप में मित्रता और वक्तव्य</string>
+    <string name="vehicle_under_service">सेवा के तहत वाहन के दौरान अनुभव</string>
+    <string name="accuracy_of_estimate">अनुमान राशि की सटीकता और वितरण का अनुमानित समय</string>
+    <string name="satisfactory">बिल शुल्क के संतोषजनक स्पष्टीकरण</string>
+    <string name="quality_of_work">काम की गुणवत्ता</string>
+    <string name="cleanliness_of_vehicle">वाहन की सफाई</string>
+    <string name="please_complete_feedback">Please Complete Feedback</string>
+    <string name="please_check_essentials">Please Check Essentials</string>
+    <string name="click_selfie">Capture Selfie</string>
+    <string name="svc_name_hint">एसवीसी सलाहकार / सीआरई / सुरक्षा कर्मी का नाम</string>
+
+    <!--AwaitingPayemnt-->
+    <string name="card">कार्ड</string>
+    <string name="card_history">कार्ड इतिहास</string>
+
+    <!--Attendance-->
+    <string name="shower">शावर</string>
+    <string name="powerbank">पावर बैंक</string>
+    <string name="charger">चार्जर</string>
+    <string name="uniform">वर्दी</string>
+    <string name="sign_in">साइन इन करें</string>
+    <string name= "want_to_sign_in">क्या आप वाकई साइन इन करना चाहते हैं?</string>
+
+    <!--Disabled Ambassador-->
+    <string name="please_contact_office">कृपया कार्यालय से संपर्क करे </string>
+    <string name="rupee">\u20B9</string>
+
+    <!--Feedback-->
+
+    <string name="feedback">शिकायतें</string>
+    <string name="submit">जमा करें</string>
+
+    <!--Refer and earn-->
+    <string name="name">नाम</string>
+    <string name="mobile_number">मोबाइल नंबर</string>
+    <string name="email">ईमेल</string>
+
+    <!--AcceptTask-->
+    <string name="chauffeur">शोफर</string>
+    <string name="home_delivery">घर पहुँचाना</string>
+    <string name="test_drive">Test Drive</string>
+    <string name="internal_movement">आंतरिक संचलन</string>
+    <string name="stockyard">स्टॉकयार्ड</string>
+
+    <!--Status-->
+    <string name="checking_mobile_data">Checking if mobiledata is enabled</string>
+    <string name="mobile_data_disabled">Mobiledata is disabled. Please enable it.</string>
+    <string name="location_spoofing_enabled">Location Spoofing is enabled. Please disable it.</string>
+    <string name="location_spoofing_app">Location Spoofing apps are installed. Please uninstall it.</string>
+    <string name="checking_wifi">Checking if wifi is enabled</string>
+    <string name="wifi_enabled">Wifi is enabled</string>
+    <string name="network_offline">Network is offline. Please enable Mobile Data.</string>
+    <string name="checking_gps">Checking if GPS is available</string>
+    <string name="network_available">Network is available. Connecting to Server.</string>
+    <string name="trying_again_in_three_sec">Network Unavailable - Trying again in 3 seconds. Please wait...</string>
+
+    <!--TakingComplaints-->
+    <string name="add_one_comp">कम से कम एक शिकायत दर्ज करें</string>
+    <string name="add_complaints">शिकायत दर्ज करे</string>
+    <string name="add_other_complaints">अन्य शिकायतें जोड़ें</string>
+    <string name="skip">छोड़ें</string>
+
+    <!--PhotoGallery-->
+    <string name="submit_photos_question">फोटो जमा करें?</string>
+    <string name="road_side_assistance">Road Side Assistance</string>
+    <string name="awaiting_payment">Awaiting Payment</string>
+
+    <string-array name="four_wheeler">
+        <item>सामने का दृश्य</item>
+        <item>बाएं सामने का पहिया</item>
+        <item>बाएं सामने का द्वार</item>
+        <item>पिछला बायाँ द्वार</item>
+        <item>बायाँ पीछे कंधे</item>
+        <item>पीछे का दृश्य</item>
+        <item>ट्रंक व्यू</item>
+        <item>अतिरिक्त पहिया</item>
+        <item>दायां ओर पिछला कंधे</item>
+        <item>दायां ओर पिछला द्वार</item>
+        <item>दायां सामने द्वार</item>
+        <item>दायां सामने पहिया</item>
+        <item>छत का दृश्य</item>
+        <item>दस्ताना बॉक्स</item>
+        <item>बीच का कंसोल</item>
+        <item>माइलेज / ईंधन</item>
+        <item>एप्रन</item>
+        <item>चाबी</item>
+        <item>बीमा</item>
+        <item>आर सी</item>
+        <item>इन्वेंटरी शीट</item>
+    </string-array>
+
+    <string-array name="two_wheeler">
+        <item>सामने का दृश्य</item>
+        <item>बायाँ दृश्य</item>
+        <item>पीछे का दृश्य</item>
+        <item>दायां दृश्य</item>
+        <item>शीर्ष दृश्य</item>
+        <item>स्पीडोमीटर</item>
+        <item>बीमा</item>
+        <item>आर सी</item>
+        <item>इन्वेंटरी शीट</item>
+    </string-array>
+
+</resources>

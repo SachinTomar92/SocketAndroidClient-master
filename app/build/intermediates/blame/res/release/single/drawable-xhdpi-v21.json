@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/drawable-xhdpi-v21/ic_menu_send.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/generated/res/pngs/release/drawable-xhdpi-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/drawable-xhdpi-v21/ic_menu_share.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/generated/res/pngs/release/drawable-xhdpi-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/drawable-xhdpi-v21/ic_menu_gallery.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/generated/res/pngs/release/drawable-xhdpi-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/drawable-xhdpi-v21/ic_menu_manage.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/generated/res/pngs/release/drawable-xhdpi-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/drawable-xhdpi-v21/ic_menu_camera.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/generated/res/pngs/release/drawable-xhdpi-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/drawable-xhdpi-v21/ic_menu_slideshow.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/generated/res/pngs/release/drawable-xhdpi-v21/ic_menu_slideshow.xml"
+    }
+]

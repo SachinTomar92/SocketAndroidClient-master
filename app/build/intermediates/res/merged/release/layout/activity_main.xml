@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#494949"
+    tools:context="com.north.socket.client.MainActivity">
+
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        android:onClick="reinitMain"
+        android:visibility="invisible"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="318dp" />
+
+
+    <TextView
+        android:id="@+id/headingText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="You are paying Norte Technologies India Pvt Ltd"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:textSize="14dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/rupee"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:layout_below="@+id/headingText"
+        android:layout_marginTop="10dp"
+        android:layout_toLeftOf="@+id/amountTextView"
+        android:layout_marginRight="5dp"/>
+
+    <TextView
+        android:id="@+id/amountTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2000"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:textSize="36sp"
+        android:layout_below="@+id/headingText"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#F5A623"
+        android:layout_below="@id/amountTextView"
+        android:layout_marginTop="10dp"/>
+
+    <RelativeLayout
+        android:id="@+id/cardView"
+        android:layout_above="@+id/statusBar"
+        android:layout_width="match_parent"
+        android:layout_height="178dp"
+        android:background="@drawable/round_corner"
+        android:layout_marginLeft="26dp"
+        android:layout_marginRight="26dp">
+
+        <TextView
+            android:id="@+id/cardNoView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CARD NO"
+            android:textStyle="bold"
+            android:textColor="#828282"
+            android:layout_marginLeft="26dp"
+            android:layout_marginTop="30dp"/>
+
+        <TextView
+            android:id="@+id/cardNo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="• • • •    • • • •    • • • •   • • • •"
+            android:layout_below="@+id/cardNoView"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#606060"
+            android:gravity="center"
+            android:layout_marginLeft="26dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:id="@+id/validThruText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="VALID THRU"
+            android:textStyle="bold"
+            android:textColor="#828282"
+            android:layout_below="@+id/cardNo"
+            android:layout_marginLeft="26dp"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:id="@+id/validThru"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="XX/XX"
+            android:layout_below="@+id/validThruText"
+            android:textStyle="bold"
+            android:textColor="#606060"
+            android:layout_marginLeft="26dp"
+            android:layout_marginTop="10dp"/>
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/statusBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/statusbar"
+        android:layout_marginBottom="20dp"
+        android:layout_alignParentBottom="true">
+
+    </ImageView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CONNECTING TO DEVICE..."
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="#373737"
+        android:textAllCaps="true"
+        android:lines="1"
+        android:ellipsize="end"
+        android:gravity="center_horizontal"
+        android:id="@+id/mswipeInfo"
+        android:layout_alignBottom="@+id/statusBar"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="50dp" />
+
+</RelativeLayout>

@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/activity_horizontal_margin"
+    android:background="#2a2a2a"
+    tools:context="com.ezeapi.nativesample.PaymentActivity" >
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="1) Initialize Device"
+        android:id="@+id/initdevice"
+        android:background="#F28500"
+        android:textSize="24dp"
+        android:textColor="#ffffff"
+        android:layout_marginTop="46dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="2) Prepare Device"
+        android:id="@+id/prepdevice"
+        android:background="#F28500"
+        android:textSize="24dp"
+        android:textColor="#ffffff"
+        android:layout_marginTop="35dp"
+        android:layout_below="@+id/initdevice"
+        android:layout_alignLeft="@+id/initdevice"
+        android:layout_alignStart="@+id/initdevice" />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="3) Make Payment"
+        android:id="@+id/makepayment"
+        android:background="#F28500"
+        android:textSize="24dp"
+        android:textColor="#ffffff"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/prepdevice"
+        android:layout_alignStart="@+id/prepdevice" />
+
+</RelativeLayout>

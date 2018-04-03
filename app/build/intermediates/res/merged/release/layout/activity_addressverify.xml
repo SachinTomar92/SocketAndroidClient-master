@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    tools:context="com.north.socket.client.Attendance"
+    android:background="#2a2a2a"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#2a2a2a"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/verify_pin"
+        android:id="@+id/button6"
+        android:background="#F28500"
+        android:textSize="24dp"
+        android:textColor="#ffffff"
+        android:onClick="SignIn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="250dp" />
+
+        <TextView
+            android:text="TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/white"
+            android:id="@+id/oldAddress" />
+
+        <TextView
+            android:text="@string/old_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="17dp"
+            android:textColor="@color/light_yellow"
+            android:textSize="9dp"
+            android:id="@+id/oldAddresslabel" />
+
+        <EditText
+            android:text="ABD4523"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/PIN"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/white"
+            android:textSize="24sp"
+            android:layout_marginTop="80dp" />
+
+        <TextView
+            android:text="@string/new_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="150dp"
+            android:textColor="@color/light_yellow"
+            android:textSize="9dp"
+            android:id="@+id/newAddresslabel" />
+
+        <TextView
+            android:text="TextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="false"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/white"
+            android:id="@+id/newAddress"
+            android:layout_marginTop="160dp" />
+
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/overlay"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <RelativeLayout
+            style="@style/GenericProgressBackground"
+            android:id="@+id/loadingPanel"
+            >
+            <ProgressBar
+                style="@style/GenericProgressIndicator"/>
+        </RelativeLayout>
+
+    </FrameLayout>
+</RelativeLayout>

@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_forgot_password.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_take_photos.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_take_photos.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/notification_template_lines.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_mswipe_view.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_mswipe_view.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/navigation_menu.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_history_list_adapter.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_history_list_adapter.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_list_comp.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_list_comp.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/start_essentials.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/start_essentials.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/list_group.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/list_group.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/test_layout.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/test_layout.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_list_history_conv.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_list_history_conv.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/mssignaturereceipt.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/e9aeaea0944a01b6e41906297e185a856ea3a49f/output/res/layout/mssignaturereceipt.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_implant_home.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_implant_home.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_awaiting_task.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_awaiting_task.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_capture_signature.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_capture_signature.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/dee812f703eeabde33f64ddaed3cc64b4cd330e0/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_addressverify.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_addressverify.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_free_complaints.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_free_complaints.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/dee812f703eeabde33f64ddaed3cc64b4cd330e0/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/dee812f703eeabde33f64ddaed3cc64b4cd330e0/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_drivingtest.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_drivingtest.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_accept_task.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_accept_task.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/dee812f703eeabde33f64ddaed3cc64b4cd330e0/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_active_task.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_active_task.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_close_socket.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_close_socket.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/list_view_menu.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/list_view_menu.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/program_list.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/program_list.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_attendance.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_attendance.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_ambassador_present.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_ambassador_present.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_loading_page.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_loading_page.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/dee812f703eeabde33f64ddaed3cc64b4cd330e0/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_await_payment.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_await_payment.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/photo_gallery_grid_layout.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/photo_gallery_grid_layout.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/dee812f703eeabde33f64ddaed3cc64b4cd330e0/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/mytextview.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/mytextview.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/main.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/dee812f703eeabde33f64ddaed3cc64b4cd330e0/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/list_item_exp.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/list_item_exp.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_feedback.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_nativesample.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_nativesample.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/dee812f703eeabde33f64ddaed3cc64b4cd330e0/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/dee812f703eeabde33f64ddaed3cc64b4cd330e0/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_refer_and_earn.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_refer_and_earn.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_web_page_screen.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_web_page_screen.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_photo_gallery.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_photo_gallery.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/dee812f703eeabde33f64ddaed3cc64b4cd330e0/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_trans_history_details.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_trans_history_details.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_ambassador_present_detail.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_ambassador_present_detail.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_disabled_ambassador.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_disabled_ambassador.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_transaction_history.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_transaction_history.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_taking_complaints.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_taking_complaints.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/listrow.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/listrow.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_login.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_list_history.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_list_history.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/activity_list_history_cash.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/activity_list_history_cash.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/list_item.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/dee812f703eeabde33f64ddaed3cc64b4cd330e0/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/top_info_activetask.xml",
+        "source": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/src/main/res/layout/top_info_activetask.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/f5c7acbb71a0ed82d984465c6c90eb908dcdf416/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/sachintomar 1/Downloads/android/SocketAndroidClient-master/app/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/Users/sachintomar 1/.android/build-cache/dee812f703eeabde33f64ddaed3cc64b4cd330e0/output/res/layout/design_navigation_menu_item.xml"
+    }
+]
